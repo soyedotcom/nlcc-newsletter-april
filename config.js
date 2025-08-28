@@ -78,3 +78,55 @@
 // ];
 
 //20-08-25
+const slideData = [
+  {
+    img: "images/joiners-Soye.jpg",
+    title: "Automated Infrastructure Monitoring",
+    desc: "Health monitoring of PCs, servers, network, and internet speed is at 98% completion.",
+  },
+  {
+    img: "images/banner-8.jpg",
+    title: "Lightweight Universal Appraisal System",
+    desc: "Supports any template and is 85% complete. Currently used in Community of Practice / Research.",
+  },
+  {
+    img: "images/revenue.png",
+    title: "Application Suite Development",
+    desc: "Modules: Incident, Ticketing, Change, Access, and Appointment Management – 95% completion.",
+  },
+  {
+    img: "https://i.ibb.co/cchghPYV/banner-3.jpg",
+    title: "StarLink Satellite Internet Installation",
+    desc: "Installation complete and testing phase at 100%.",
+  },
+  {
+    img: "images/banner-6.jpg",
+    title: "CT Appointment Booking Spreadsheet",
+    desc: "Centralized CT e-spreadsheet is fully implemented – 100% operational.",
+  },
+  {
+    img: "images/banner-4.jpg",
+    title: "Sage Cloud Testing",
+    desc: "Sage server upgrade recommended. Issue not related to internet or network.",
+  },
+  {
+    img: "images/visits.png",
+    title: "Failover Server Preparedness",
+    desc: "Preparedness at 30%. License management is at 100% using 'ROBOT'.",
+  },
+  {
+    img: "images/invoice-validation.jpg",
+    title: "AWS Cloud Backup & HIPAA Compliance",
+    desc: "Patient data safety and privacy compliance evaluation ongoing – 50% complete.",
+  },
+  {
+    img: "images/email-access.jpg",
+    title: "Sage-Aria Integration",
+    desc: "Generating Sage invoices from Aria – under analysis and engagement using in-house skills.",
+  },
+  {
+    img: "images/cctv-room.jpg",
+    title: "AI Portal – Patient Support",
+    desc: "Patient support module completed (100%). 'Staging/Brachy Encounters' at 95%.",
+  },
+];
