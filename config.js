@@ -3,7 +3,7 @@
 //   {
 //     img: "images/joiners-Soye.jpg",
 //     title: "New Joiners: Intern Soye and Technical support Joel",
-//     desc: "We welcome Soye (IT Intern) and Joel (Technical Support) to the NLCC IT team. Their onboarding has been approved to expand end-user support capabilities to improve response times & support coverage.",
+//     desc: "We welcome Soye (IT Intern) and Joel (Technical Support) to the MLCC IT team. Their onboarding has been approved to expand end-user support capabilities to improve response times & support coverage.",
 //   },
 //   {
 //     img: "images/banner-8.jpg",
@@ -12,8 +12,8 @@
 //   },
 //   {
 //     img: "images/revenue.png",
-//     title: "📊 Revenue Assurance Middleware For NLCC Services",
-//     desc: "To strengthen financial tracking, NLCC's IT is building a revenue assurance middleware that will sit between clinical services and the billing system.",
+//     title: "📊 Revenue Assurance Middleware For MLCC Services",
+//     desc: "To strengthen financial tracking, MLCC's IT is building a revenue assurance middleware that will sit between clinical services and the billing system.",
 //   },
 //   {
 //     img: "https://i.ibb.co/cchghPYV/banner-3.jpg",
@@ -47,7 +47,7 @@
 //   },
 //   {
 //     img: "images/cctv-room.jpg",
-//     title: "Welcome to NLCC CCTV frontal coverage -Enhancing Security",
+//     title: "Welcome to MLCC CCTV frontal coverage -Enhancing Security",
 //     desc: "Front-facing CCTV now monitors key entry and patient-facing areas for round-the-clock security.",
 //   },
 //   {
@@ -68,12 +68,12 @@
 //   {
 //     img: "images/prjector-img.jpg",
 //     title: "Tip - Projecting a laptop to Screen",
-//     desc: "Connect to NLCC network, press 'Windows + P', select Duplicate or use HDMI. Call IT for help if needed.",
+//     desc: "Connect to MLCC network, press 'Windows + P', select Duplicate or use HDMI. Call IT for help if needed.",
 //   },
 //   {
 //     img: "images/ai-portal.png",
 //     title: "Coming Soon - AI Portal",
-//     desc: "NLCC's AI Portal will centralize intelligent tools across departments with seamless model integration.",
+//     desc: "MLCC's AI Portal will centralize intelligent tools across departments with seamless model integration.",
 //   },
 // ];
 
@@ -82,12 +82,12 @@ const slideData = [
   {
     img: "images/joiners-Soye.jpg",
     title: "🎓 Farewell to Intern Soye",
-    desc: "Intern Soye completes her 6-month SIWES program with NLCC IT on August 29th. She returns to Covenant University to complete her final year. We thank her for her contributions and wish her the best in her future endeavors.",
+    desc: "Intern Soye completes her 6-month SIWES program with MLCC IT on August 29th. She returns to Covenant University to complete her final year. We thank her for her contributions and wish her the best in her future endeavors.",
   },
   {
     img: "images/banner-8.jpg",
     title: "🧾 Unified IT Service Management System",
-    desc: "Announcing NLCC’s new IT Service Management platform – a unified system for incident handling, change management, ticketing, appointment bookings, and access requests. Staff can now log in, raise requests, and track approvals easily.",
+    desc: "Announcing MLCC’s new IT Service Management platform – a unified system for incident handling, change management, ticketing, appointment bookings, and access requests. Staff can now log in, raise requests, and track approvals easily.",
   },
   {
     img: "images/revenue.png",
@@ -97,12 +97,12 @@ const slideData = [
   {
     img: "https://i.ibb.co/cchghPYV/banner-3.jpg",
     title: "🧠 AI Portal for Patient Support",
-    desc: "NLCC’s AI Portal supports patients with appointment booking, drug orders, care service info, queue status, and real-time feedback. It also includes onboarding videos and service ratings for improved engagement.",
+    desc: "MLCC’s AI Portal supports patients with appointment booking, drug orders, care service info, queue status, and real-time feedback. It also includes onboarding videos and service ratings for improved engagement.",
   },
   {
     img: "images/banner-6.jpg",
     title: "🧾 Survivorship & Revenue Tracker",
-    desc: "A new tool to track clinical consultations, activities, survivorship outcomes, and operational efficiency. This supports strategic insights for improving cancer care and service delivery at NLCC.",
+    desc: "A new tool to track clinical consultations, activities, survivorship outcomes, and operational efficiency. This supports strategic insights for improving cancer care and service delivery at MLCC.",
   },
   {
     img: "images/banner-4.jpg",
@@ -112,7 +112,7 @@ const slideData = [
   {
     img: "images/visits.png",
     title: "🗂️ Lightweight Universal Appraisal System",
-    desc: "NLCC has developed a user-friendly KPI appraisal software. Staff can now generate and complete appraisals using reusable templates, improving performance reviews and accountability.",
+    desc: "MLCC has developed a user-friendly KPI appraisal software. Staff can now generate and complete appraisals using reusable templates, improving performance reviews and accountability.",
   },
   {
     img: "images/invoice-validation.jpg",
@@ -127,7 +127,7 @@ const slideData = [
   {
     img: "images/cctv-room.jpg",
     title: "☁️ AWS Cloud Backup for Patient Data",
-    desc: "NLCC is moving toward secure AWS-based cloud backups to enhance data safety and comply with HIPAA standards for health information privacy and disaster recovery.",
+    desc: "MLCC is moving toward secure AWS-based cloud backups to enhance data safety and comply with HIPAA standards for health information privacy and disaster recovery.",
   },
   {
     img: "images/cybersec-img.jpg",
